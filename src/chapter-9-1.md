@@ -1,5 +1,4 @@
-Chapter 8: Measuring AI Impact on Small Business Inventory Management: Assessing the effectiveness of AI for small business inventory management
-================================================================================================================================================
+# Assessing the effectiveness of AI for small business inventory management
 
 In order to determine the impact of AI on small business inventory management, it is important to assess its effectiveness. In this chapter, we will explore how businesses can measure the effectiveness of AI in inventory management.
 

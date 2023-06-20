@@ -2,7 +2,6 @@
 
 - [Introduction](README.md)
   - [The importance of accurate inventory management for small businesses](chapter-1-1.md)
-  - [Overview of the book's content](chapter-1-2.md)
 - [Chapter 1: Understanding AI in Small Business Inventory Management](chapter-2.md)
   - [Definition of AI-powered inventory management](chapter-2-1.md)
   - [Types of AI used for small business inventory management](chapter-2-2.md)

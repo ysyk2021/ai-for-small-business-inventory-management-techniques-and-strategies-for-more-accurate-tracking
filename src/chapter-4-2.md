@@ -1,5 +1,4 @@
-Chapter 3: Choosing the Right AI Tools and Technologies for Small Business Inventory Management: Key Factors to Consider When Choosing AI Tools
-===============================================================================================================================================
+# Key Factors to Consider When Choosing AI Tools
 
 Choosing the right AI tools and technologies is essential for small businesses looking to implement AI in their inventory management strategy. In this chapter, we'll highlight some key factors to consider when choosing AI tools for small business inventory management.
 
