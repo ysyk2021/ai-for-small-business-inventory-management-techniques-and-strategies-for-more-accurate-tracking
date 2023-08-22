@@ -1,4 +1,4 @@
-# Ethical Considerations for AI Implementation in Small Business Inventory Management
+
 
 As small businesses increasingly turn to AI-powered inventory management solutions, it's important to consider the ethical implications of AI implementation. In this chapter, we'll explore ethical considerations for AI implementation in small business inventory management.
 

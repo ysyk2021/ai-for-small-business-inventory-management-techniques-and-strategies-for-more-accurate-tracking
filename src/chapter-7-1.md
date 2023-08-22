@@ -1,4 +1,4 @@
-# Overview of AI applications for customer service in small business inventory management
+
 
 AI can be a powerful tool for enhancing customer service in small business inventory management. In this chapter, we will provide an overview of AI applications for customer service.
 

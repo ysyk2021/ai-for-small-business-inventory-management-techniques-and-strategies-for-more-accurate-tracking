@@ -1,5 +1,4 @@
-Chapter 9: AI Ethics and Governance for Small Business Inventory Management
-===========================================================================
+
 
 As small businesses increasingly turn to AI-powered inventory management solutions, it's important to consider the ethical and governance implications of AI implementation. In this chapter, we'll explore best practices for ethical and responsible AI use in small business inventory management.
 

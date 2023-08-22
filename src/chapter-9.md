@@ -1,5 +1,4 @@
-Chapter 8: Measuring AI Impact on Small Business Inventory Management
-=====================================================================
+
 
 Measuring the impact of AI-powered inventory management solutions is critical for small businesses looking to optimize their operations. In this chapter, we'll explore best practices for measuring the impact of AI on small business inventory management.
 

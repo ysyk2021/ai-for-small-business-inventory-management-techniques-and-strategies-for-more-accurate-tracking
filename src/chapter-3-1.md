@@ -1,4 +1,4 @@
-# Assessing Your Inventory Management Needs and Goals
+
 
 Before implementing AI-powered inventory management solutions, small businesses must assess their inventory management needs and goals. In this chapter, we'll explore best practices for assessing your inventory management needs and goals to prepare for AI implementation.
 

@@ -1,5 +1,4 @@
-Chapter 7: Using AI for Advanced Analytics and Reporting
-========================================================
+
 
 Small businesses can leverage AI-powered inventory management solutions for advanced analytics and reporting to gain valuable insights into their operations. In this chapter, we'll explore best practices for using AI for advanced analytics and reporting in small business inventory management.
 
