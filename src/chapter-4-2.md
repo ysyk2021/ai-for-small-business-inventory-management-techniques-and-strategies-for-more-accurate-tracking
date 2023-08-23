@@ -1,5 +1,4 @@
 
-
 Choosing the right AI tools and technologies is essential for small businesses looking to implement AI in their inventory management strategy. In this chapter, we'll highlight some key factors to consider when choosing AI tools for small business inventory management.
 
 Business Objectives

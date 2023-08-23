@@ -1,5 +1,4 @@
 
-
 In order to determine the impact of AI on small business inventory management, it is important to assess its effectiveness. In this chapter, we will explore how businesses can measure the effectiveness of AI in inventory management.
 
 Key Performance Indicators (KPIs)

@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) can be a powerful tool for improving supply chain management in small businesses. In this chapter, we will explore best practices for AI implementation in areas such as supplier selection, order fulfillment, and logistics planning.
 
 Supplier Selection

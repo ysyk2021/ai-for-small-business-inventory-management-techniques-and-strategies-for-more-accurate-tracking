@@ -1,5 +1,4 @@
 
-
 AI-powered inventory management involves using various types of AI technologies to optimize inventory management processes. In this chapter, we'll explore some of the key types of AI used for small business inventory management.
 
 Machine Learning

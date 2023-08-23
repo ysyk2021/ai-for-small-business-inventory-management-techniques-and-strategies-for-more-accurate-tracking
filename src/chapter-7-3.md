@@ -1,5 +1,4 @@
 
-
 In addition to improving inventory management, AI can also be used to enhance customer service. In this chapter, we will explore some case studies of successful AI implementations in enhanced customer service.
 
 Case Study 1: Sephora Virtual Artist
