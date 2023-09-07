@@ -12,3 +12,7 @@ In the following chapters, we'll dive deeper into the specific techniques and st
 We hope this book will serve as a valuable resource for small business owners and managers who are looking to optimize their inventory management strategies using AI. Let's get started!
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
